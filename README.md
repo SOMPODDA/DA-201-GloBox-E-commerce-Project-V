@@ -16,6 +16,10 @@ The setup of the A/B test is as follows:
 The experiment is only being run on the mobile website.
 A user visits the GloBox main page and is randomly assigned to either the control or test group. This is the join date for the user.
 The page loads the banner if the user is assigned to the test group, and does not load the banner if the user is assigned to the control group.
+
+   ![image](https://github.com/SOMPODDA/DA-201-GloBox-E-commerce-Project-V/assets/70188796/873358c5-e646-4228-9c20-0b9f1dc20899)
+
+
 The user subsequently may or may not purchase products from the website. It could be on the same day they join the experiment, or days later. If they do make one or more purchases, this is considered a “conversion”.
 Your task is to analyze the results of the A/B test and provide a recommendation to your stakeholders about whether GloBox should launch the experience to all users. The group that you will be presenting to includes the following:
 
