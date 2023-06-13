@@ -32,3 +32,5 @@ Alejandro Gonzalez, User Experience Designer, Growth: Alejandro is the designer 
 Mei Kim, Head of Marketing: Mei oversees the Marketing team, which works on targeting audiences with effective marketing campaigns to drive customers to the GloBox website. She collaborates frequently with Leila and Alejandro to design website experiences that will align well with the current marketing efforts.
 
 Together, Leila, Alejandro, and Mei will decide whether or not to launch the experiment based on the results.
+
+                 https://docs.google.com/spreadsheets/d/1lg3zY0ulaOclFoXgNKBnQ-pIK5VwoatczogZMOVHLAE/edit?usp=sharing
