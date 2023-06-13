@@ -9,7 +9,9 @@ GloBox is primarily known amongst its customer base for boutique fashion items a
 
 The Growth team decides to run an A/B test that highlights key products in the food and drink category as a banner at the top of the website. The control group does not see the banner, and the test group sees it as shown below:
 
-image
+image![image](https://github.com/SOMPODDA/DA-201-GloBox-E-commerce-Project-V/assets/70188796/bc9038e9-4c03-4bc1-b464-9479aacdb2ef)
+![image](https://github.com/SOMPODDA/DA-201-GloBox-E-commerce-Project-V/assets/70188796/2b0518fb-6a14-4ea0-b80a-b285d06fe17e)
+
 The setup of the A/B test is as follows:
 
 The experiment is only being run on the mobile website.
