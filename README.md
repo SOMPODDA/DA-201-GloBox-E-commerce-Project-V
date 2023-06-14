@@ -1,4 +1,5 @@
 # DA-201-GloBox-E-commerce-A/B Testing and Recommendations
+   ![image](https://github.com/SOMPODDA/DA-201-GloBox-E-commerce-Project-V/assets/70188796/4423df72-3269-448c-8d7e-29e1ce5eab36)
 
 An A/B test is an experimentation technique used by businesses to compare two versions of a webpage, advertisement, or product feature to determine which one performs better. By randomly assigning customers or users to either the A or B version, the business can determine which version is more effective at achieving a particular goal.
 
