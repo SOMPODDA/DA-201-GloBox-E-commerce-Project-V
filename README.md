@@ -1,4 +1,4 @@
-# DA-201-GloBox-E-commerce-Project-V
+# DA-201-GloBox-E-commerce-A/B Testing and Recommendations
 
 An A/B test is an experimentation technique used by businesses to compare two versions of a webpage, advertisement, or product feature to determine which one performs better. By randomly assigning customers or users to either the A or B version, the business can determine which version is more effective at achieving a particular goal.
 
@@ -53,3 +53,13 @@ The project features three parts:
 
 
                            https://docs.google.com/spreadsheets/d/1lg3zY0ulaOclFoXgNKBnQ-pIK5VwoatczogZMOVHLAE/edit?usp=sharing
+                           
+                           
+Learning Outcomes:
+
+1. Compute and interpret hypothesis tests and confidence intervals including all relevant statistics such as sample size p-values confidence level significance level and  margin of error.
+2. Understand the purpose and design of A/B tests including the underlying principles of randomization metric selection bias and statistical power.
+3. Apply inferential statistics methods to analyze the results of an A/B test.
+4. Plan an analysis workflow using multiple tools: SQL spreadsheets and Tableau.
+5. Interpret and communicate data effectively using graphs tables and statistical language.                           
+                           
