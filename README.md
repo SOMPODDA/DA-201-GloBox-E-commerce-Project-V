@@ -1,4 +1,4 @@
-# DA-201-GloBox-E-commerce-A/B Testing and Recommendations  ![image](https://github.com/SOMPODDA/DA-201-GloBox-E-commerce-Project-V/assets/70188796/60d72bd4-572d-4f29-acb0-8c7d11d5283f)
+# DA-201-GloBox-E-commerce-A/B_Testing_Recommendations  ![image](https://github.com/SOMPODDA/DA-201-GloBox-E-commerce-Project-V/assets/70188796/60d72bd4-572d-4f29-acb0-8c7d11d5283f)
 
    ![image](https://github.com/SOMPODDA/DA-201-GloBox-E-commerce-Project-V/assets/70188796/4423df72-3269-448c-8d7e-29e1ce5eab36)
 
