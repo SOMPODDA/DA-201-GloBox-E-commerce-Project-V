@@ -65,3 +65,4 @@ Learning Outcomes:
 4. Plan an analysis workflow using multiple tools: SQL spreadsheets and Tableau.
 5. Interpret and communicate data effectively using graphs tables and statistical language.                           
                            
+   ![image](https://github.com/SOMPODDA/DA-201-GloBox-E-commerce-Project-V/assets/70188796/cecf3602-e84c-4473-a9e6-37ea380a8c8f)
