@@ -23,6 +23,7 @@ The setup of the A/B test is as follows:
 4. The user subsequently may or may not purchase products from the website. It could be on the same day they join the experiment, or days later. If they do make one or more purchases, this is considered a “conversion”.
 
 Your task is to analyze the results of the A/B test and provide a recommendation to your stakeholders about whether GloBox should launch the experience to all users. The group that you will be presenting to includes the following:
+                      ![image](https://github.com/SOMPODDA/DA-201-GloBox-E-commerce-Project-V/assets/70188796/01d7fd14-a695-490a-9ac8-968b4e56f340)
 
 important questions you should consider at this phase of the analysis:
 
